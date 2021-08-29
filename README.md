@@ -2,6 +2,6 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Chabot/ML/AI
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me DM my IG: sundanesedev
+- 📫 How to reach me DM my IG: sundanesedev/LinkedIn: Muhammad Iqbal Hadad
 
 Thank for your attention
